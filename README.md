@@ -1,7 +1,7 @@
 # Pylo
 A simple trello like python desktop gui app
 
-# Licens and copyrights
+# License and copyrights
 
 This piece of softwear is written under the nickname Nak0_x. All copyrights reserved.
 
